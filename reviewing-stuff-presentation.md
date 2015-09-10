@@ -1,8 +1,9 @@
 #### Edit me
-* I will turn this into slides before presenting on 22nd September and miss out this first slide
+* I will present this as slides for a 5 or 10 minute lightning talk on 22nd September and miss out this first slide
 * Text with #### before it will be a new slide title, *s are used for slide bullet points
 * Any text after bullet points I'll consider to be speaker notes
 * This presentation is more about content than formatting but comments on how best to show/present it are also welcome.
+* Comments in other formats welcome too (in person, email grahamthecoder@gmail.com or tweet @grahamthecoder)
 
 ####Reviewing stuff - it's important.
 
