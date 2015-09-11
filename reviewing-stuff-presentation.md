@@ -45,8 +45,12 @@ It's easy to blame other people, but what's really going on, and how can we do i
 #### Remember
 * Learning to respond to and accept this kind of feedback takes time. Most people's instinct is to respond defensively.
 * Answer all comments unless it is clear that the discussion has come to a close. If you're under time pressure which is influencing the discussion or your decision then say so.
-* If you're going around in circles, talk in person, but post the result of the discussion so it's still recorded.
+* If there's a dispute, or comments feel more emotional than logical **talk in person**
+  * but post the result of the discussion so it's still recorded.
 * Try to give the benefit of the doubt
+
+Note: Emphasize the talk in person
+
 
 #### Review this presentation
 * This talk is over, but why not comment on something you liked, or help me improve something
