@@ -1,5 +1,8 @@
 #### Edit me
+* The purpose of the talk is to inspire people to review, be reviewed, and do those things well.
 * I will present this as slides for a 5 or 10 minute lightning talk on 22nd September and miss out this first slide
+* Nothing is sacred - ruthless editing and deleting will be required to get the most useful information across in the short time.
+
 * Text with #### before it will be a new slide title, *s are used for slide bullet points
 * Any text after bullet points I'll consider to be speaker notes
 * This presentation is more about content than formatting but comments on how best to show/present it are also welcome.
