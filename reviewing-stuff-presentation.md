@@ -34,6 +34,7 @@ In text form, it's hard to tell whether someone needs a response, and what respo
 It's also hard to discern the relative importance of a comment, and how much someone cares about it.
 The success of communication depends on each individual's and the pair's rapport.
 It's easy to blame other people, but what's really going on, and how can we do it better?
+Devils advocate can be a dangerous game to play in textual form. Be careful of 'false' arguments too which people sometimes accidentally create when they're passionate about their contribution. e.g. The false dichotomy - making it seem like there are only two choices, of which theirs is the superior.
 
 #### Giving feedback
 * Keep comments short
@@ -42,6 +43,8 @@ It's easy to blame other people, but what's really going on, and how can we do i
 * Consider categorizing your comment: Must/Should/Could or Technical/Aesthetic
 * If you notice emotive language being used, try to speak in person or via Skype to allow both of you to reset your "tone gauge".
 * In a longer discussion, make sure you know who's making the final decision.
+
+Is your suggestion a fundamentally different design, or a minor tweak? Did you remember to point out the things you particularly liked and want to make sure they *don't* change?
 
 #### Remember
 * Learning to respond to and accept this kind of feedback takes time. Most people's instinct is to respond defensively.
