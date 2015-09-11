@@ -52,7 +52,6 @@ Is your suggestion a fundamentally different design, or a minor tweak? Did you r
 * When you disagree, start from the assumption that they're right. Don't argue your point until you understand theirs.
 * If there's a dispute, or comments feel more emotional than logical **talk in person**
   * but post the result of the discussion so it's still recorded.
-* Try to give the benefit of the doubt
 
 Note: Emphasize the talk in person
 
