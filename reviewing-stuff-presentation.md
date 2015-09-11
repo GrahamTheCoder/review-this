@@ -38,7 +38,7 @@ It's easy to blame other people, but what's really going on, and how can we do i
 * Keep comments short
   * Explain your view of something you've observed
   * Ask a specific question if you want a specific response
-* Consider prefixing with Must, Should, Could
+* Consider categorizing your comment: Must/Should/Could or Technical/Aesthetic
 * If you notice emotive language being used, try to speak in person or via Skype to allow both of you to reset your "tone gauge".
 * In a longer discussion, make sure you know who's making the final decision.
 
