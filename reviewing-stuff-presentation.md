@@ -27,6 +27,7 @@
 * Importance
 * Tone
 * Depends on mood/rapport
+* Devils advocate / 'false' arguments
 
 People tend to underestimate how hard and time-consuming communication can be.
 In text form, it's hard to tell whether someone needs a response, and what response they're hoping for.
